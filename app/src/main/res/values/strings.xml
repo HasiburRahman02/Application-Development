@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TextView</string>
+    <string name="name_text">Hasibur Rahman</string>
+    <string name="age">I am 23 years old.</string>
+    <string name="address">Bagha,Rajshahi</string>
+    <string name="lage_Text">
+        Bagha Mosque (Bengali: বাঘা মসজিদ) is a mosque located at Bagha, 40 kilometres (25 mi) southeast of Rajshahi in Bangladesh.
+        \n\nThe mosque was built in 1523-1524 (930 AH) by Sultan Nusrat Shah, son of Alauddin Shah, the founder of the Husain Shahi dynasty. Later, the mosque was renovated at different times and when the domes of the mosque collapsed, the destroyed mosque was rebuilt in 1897.
+        \n\nThe mosque is located on 256 bighas of land. The courtyard of the mosque has been made 8–10 feet high from the plain ground. The pillars and carvings on the north side of the gate have been tormented. The mosque has 6 pillars inside. The mosque has 4 arches which are inlaid with great artwork. The walls are 6 feet wide, the dome is 42 feet in diameter and 12 feet high.
+        \n\nThe Bagha Mosque is 22.92 meters long, 12.18 meters wide, and 24 feet 6 inches high. Its walls are 2.22 meters thick. The mosque has a total of 10 domes, 4 minarets (dome-shaped at the top), and 5 entrances. The mosque is surrounded by a wall on all sides and has two entrances on either side of the wall. Terracotta designs are present everywhere inside and outside the mosque. The huge lake next to the mosque is also a place of interest. Besides, there is a Mazar Sharif next to the Mosque.
+        \n\nThe masonry of Bagha Mosque is made of lime and surki (powdered brick). There are arches and pillars inside and outside the mosque. There are also innumerable terracotta handicrafts which include mango, lily flowers, herbs and thousands of other handicrafts used in the Persian carving industry. Besides, there is a shrine of Shahdaula and his five companions on the north side of the mosque premises.
+        \n\nNasiruddin Nasrat Shah, son of the independent Sultan of Bengal Alauddin Hussain Shah, dug a dighi (large oblong pond) in front of the mosque for public welfare. Adjacent to the Shahi Mosque, the lake is on 52 bighas of land. There are rows of coconut trees around this tank. Every year during the winter, the area becomes famous for the chirping of innumerable guest birds.
+
+    </string>
+</resources>
